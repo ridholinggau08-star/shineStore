@@ -1,0 +1,1 @@
+export const STORE = { name:'Shine', wa:'62895619811574', logo:'/logo.png' };
